@@ -78,4 +78,5 @@ if(isset($_POST['name'])){
      </div>
   </div>  
 </body>
+    
 </html>
