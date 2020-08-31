@@ -8,7 +8,7 @@ div.hr2{ height: 2px; width: 250px; background-image: linear-gradient( to right,
 #gender{width: 80%; padding: 7px;margin-top:25px;border: 1px solid rgb(4, 155, 122);}
 #email{width: 80%; padding: 7px;margin-top:25px;border: 1px solid rgb(4, 155, 122);}
 #contact{width: 80%; padding: 7px;margin-top: 25px;border: 1px solid rgb(4, 155, 122);}
-.btn{margin-top: 100px;  background-image:linear-gradient( to right,rgb(4, 155, 122),rgb(78, 248, 234));padding: 10px; padding-left: 25px; padding-right: 25px; border: none; border-radius: 20px}
-.btn:hover{margin-top: 100px;  background-image:linear-gradient( to right,rgb(4, 155, 122),rgb(78, 248, 234));padding: 10px; padding-left: 25px; padding-right: 25px; border: none; border-radius: 20px;box-shadow: 5px 5px 30px 30px rgb(78, 248, 234);}
+#btn{margin-top: 100px;  background-image:linear-gradient( to right,rgb(4, 155, 122),rgb(78, 248, 234));padding: 10px; padding-left: 25px; padding-right: 25px; border: none; border-radius: 20px}
+#btn:hover{margin-top: 100px;  background-image:linear-gradient( to right,rgb(4, 155, 122),rgb(78, 248, 234));padding: 10px; padding-left: 25px; padding-right: 25px; border: none; border-radius: 20px;box-shadow: 5px 5px 30px 30px rgb(78, 248, 234);}
 div.frm{;text-align: center;margin-top: 10%;}
 p.msg{text-align: center; color: teal;}
